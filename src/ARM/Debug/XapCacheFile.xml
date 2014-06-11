@@ -1,0 +1,24 @@
+﻿<xapCache source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\Quake_Debug_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11.6.2014 19:22:37">
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11.6.2014 17:09:24" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\Quake.exe" archivePath="Quake.exe" lastWriteTime="11.6.2014 19:22:17" />
+  <file source="C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\arm\platform.winmd" archivePath="platform.winmd" lastWriteTime="26.7.2012 13:50:28" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso" archivePath="base\renderprogs\2d_albedo_ps.cso" lastWriteTime="11.6.2014 17:09:10" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso" archivePath="base\renderprogs\2d_albedo_vs.cso" lastWriteTime="11.6.2014 17:09:10" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso" archivePath="base\renderprogs\albedoonly_ps.cso" lastWriteTime="11.6.2014 17:09:10" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso" archivePath="base\renderprogs\albedoonly_vs.cso" lastWriteTime="11.6.2014 17:09:11" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso" archivePath="base\renderprogs\lightmappass_ps.cso" lastWriteTime="11.6.2014 17:09:11" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso" archivePath="base\renderprogs\lightmappass_vs.cso" lastWriteTime="11.6.2014 17:09:11" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso" archivePath="base\renderprogs\liquid_vs.cso" lastWriteTime="11.6.2014 17:09:11" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso" archivePath="base\renderprogs\sky_vs.cso" lastWriteTime="11.6.2014 17:09:11" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\autoexec.cfg" archivePath="Base\autoexec.cfg" lastWriteTime="11.6.2014 18:18:46" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\config.cfg" archivePath="Base\config.cfg" lastWriteTime="29.12.2012 0:26:14" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\quake.png" archivePath="Base\quake.png" lastWriteTime="29.12.2012 14:36:01" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\PAK0.PAK" archivePath="Base\PAK0.PAK" lastWriteTime="11.6.2014 16:45:06" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\GFX.WAD" archivePath="Base\GFX.WAD" lastWriteTime="11.6.2014 16:58:13" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\newui\Black_Arrow_Up.tga" archivePath="Base\newui\Black_Arrow_Up.tga" lastWriteTime="30.12.2012 15:26:36" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\newui\Black_Arrow_Left.tga" archivePath="Base\newui\Black_Arrow_Left.tga" lastWriteTime="30.12.2012 16:49:21" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\newui\Black_Arrow_Right.tga" archivePath="Base\newui\Black_Arrow_Right.tga" lastWriteTime="30.12.2012 16:49:41" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\newui\Black_Arrow_Down.tga" archivePath="Base\newui\Black_Arrow_Down.tga" lastWriteTime="30.12.2012 15:26:22" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\newui\FireButton.tga" archivePath="Base\newui\FireButton.tga" lastWriteTime="30.12.2012 17:03:03" />
+  <file source="C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Base\PAK1.PAK" archivePath="Base\PAK1.PAK" lastWriteTime="11.6.2014 16:46:25" />
+</xapCache>

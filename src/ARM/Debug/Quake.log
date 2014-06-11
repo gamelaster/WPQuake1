@@ -1,0 +1,103 @@
+﻿Build started 11.6.2014 19:22:14.
+     1>Project "C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(348,5): warning MSB8021: The value 'MultiByte' of the variable 'CharacterSet' is incompatible with the value 'true' of the variable 'WindowsAppContainer'.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\x86_arm\CL.exe /c /I"C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\\" /IARM\Debug\ /I"C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\\" /I"Generated Files\\" /IARM\Debug\ /Zi /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D PSAPI_VERSION=2 /D _M_ARM /D ID_WINPHONE8 /D GLQUAKE /D _DEBUG /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"quakedef.h" /Fp"ARM\Debug\Quake.pch" /Fo"ARM\Debug\\" /Fd"ARM\Debug\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\arm\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt newui\ui_main.cpp
+         ui_main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\x86_arm\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\Quake.exe" /INCREMENTAL /NOLOGO Xaudio2.lib d3d11.lib WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\Quake.pdb" /SUBSYSTEM:WINDOWS /STACK:"4000000" /TLBID:1 /WINMD:NO /WINMDFILE:"C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\Quake.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:ARM ARM\Debug\cd_null.obj
+         ARM\Debug\chase.obj
+         ARM\Debug\cl_demo.obj
+         ARM\Debug\cl_input.obj
+         ARM\Debug\cl_main.obj
+         ARM\Debug\cl_parse.obj
+         ARM\Debug\cl_tent.obj
+         ARM\Debug\cmd.obj
+         ARM\Debug\common.obj
+         ARM\Debug\conproc.obj
+         ARM\Debug\console.obj
+         ARM\Debug\crc.obj
+         ARM\Debug\cvar.obj
+         ARM\Debug\host.obj
+         ARM\Debug\host_cmd.obj
+         ARM\Debug\keys.obj
+         ARM\Debug\mathlib.obj
+         ARM\Debug\menu.obj
+         ARM\Debug\net_dgrm.obj
+         ARM\Debug\net_loop.obj
+         ARM\Debug\net_main.obj
+         ARM\Debug\net_vcr.obj
+         ARM\Debug\net_win.obj
+         ARM\Debug\net_wins.obj
+         ARM\Debug\net_wipx.obj
+         ARM\Debug\ui_button.obj
+         ARM\Debug\ui_main.obj
+         ARM\Debug\pr_cmds.obj
+         ARM\Debug\pr_edict.obj
+         ARM\Debug\pr_exec.obj
+         ARM\Debug\precompiled.obj
+         ARM\Debug\d3d_buffer.obj
+         ARM\Debug\d3d_image.obj
+         ARM\Debug\d3d_renderprog.obj
+         ARM\Debug\d3d_rendertarget.obj
+         ARM\Debug\d3d_vid.obj
+         ARM\Debug\d3d_vid_old.obj
+         ARM\Debug\d3d_wrapper.obj
+         ARM\Debug\r_draw.obj
+         ARM\Debug\r_mesh.obj
+         ARM\Debug\r_model.obj
+         ARM\Debug\r_particles.obj
+         ARM\Debug\r_refrag.obj
+         ARM\Debug\r_rlight.obj
+         ARM\Debug\r_rmain.obj
+         ARM\Debug\r_rmisc.obj
+         ARM\Debug\r_rsurf.obj
+         ARM\Debug\r_screen.obj
+         ARM\Debug\r_warp.obj
+         ARM\Debug\sbar.obj
+         ARM\Debug\snd_sound.obj
+         ARM\Debug\snd_win8.obj
+         ARM\Debug\sv_main.obj
+         ARM\Debug\sv_move.obj
+         ARM\Debug\sv_phys.obj
+         ARM\Debug\sv_user.obj
+         ARM\Debug\sys_win.obj
+         ARM\Debug\sys_winphone8app.obj
+         ARM\Debug\view.obj
+         ARM\Debug\wad.obj
+         ARM\Debug\world.obj
+         ARM\Debug\zone.obj
+         ARM\Debug\in_win8.obj
+         ARM\Debug\snd_wav.obj
+         Quake.vcxproj -> C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\Quake.exe
+       XapPackager:
+         Begin Xap packaging
+         Creating file Quake_Debug_ARM.xap
+         Adding WMAppManifest.xml
+         Adding Quake.exe
+         Adding platform.winmd
+         Adding base\renderprogs\2d_albedo_ps.cso
+         Adding base\renderprogs\2d_albedo_vs.cso
+         Adding base\renderprogs\albedoonly_ps.cso
+         Adding base\renderprogs\albedoonly_vs.cso
+         Adding base\renderprogs\lightmappass_ps.cso
+         Adding base\renderprogs\lightmappass_vs.cso
+         Adding base\renderprogs\liquid_vs.cso
+         Adding base\renderprogs\sky_vs.cso
+         Adding Base\autoexec.cfg
+         Adding Base\config.cfg
+         Adding Base\quake.png
+         Adding Base\PAK0.PAK
+         Adding Base\GFX.WAD
+         Adding Base\newui\Black_Arrow_Up.tga
+         Adding Base\newui\Black_Arrow_Left.tga
+         Adding Base\newui\Black_Arrow_Right.tga
+         Adding Base\newui\Black_Arrow_Down.tga
+         Adding Base\newui\FireButton.tga
+         Adding Base\PAK1.PAK
+         Xap packaging completed successfully
+     1>Done Building Project "C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:23.39

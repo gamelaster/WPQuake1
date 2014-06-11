@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\renderer">
+      <UniqueIdentifier>{442c74c2-bfe1-4757-a5f5-5c2c17a89e48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\renderer\direct3d">
+      <UniqueIdentifier>{fda9d4a5-482e-4628-93bb-7adb33f03872}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{31710f93-48f1-4b23-8a5e-e5c6018d9976}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\renderer\renderprog">
+      <UniqueIdentifier>{eff40e87-bcff-47da-811e-74ad8d101358}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base">
+      <UniqueIdentifier>17b52f90-9b33-4188-8a0e-808582bbabbc</UniqueIdentifier>
+      <Extensions>ico;bmp;dlg;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;resw;resjson;pak;cfg</Extensions>
+    </Filter>
+    <Filter Include="Base\Tiles">
+      <UniqueIdentifier>{f6e990de-1293-4f34-be2d-91386642fe9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\newui">
+      <UniqueIdentifier>{56ad260d-b619-4732-8128-c7f10c1443de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Base\newui">
+      <UniqueIdentifier>{1e4f99c8-49ea-4c43-8230-08325a1ad9b9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cd_null.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="chase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cl_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cl_input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cl_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cl_parse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cl_tent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cmd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conproc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="crc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cvar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="host.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="host_cmd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="in_win8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="keys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mathlib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="net_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sbar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="snd_win8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sv_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sv_move.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sv_phys.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sv_user.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sys_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="view.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="wad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="world.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_draw.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\direct3d\d3d_vid.cpp">
+      <Filter>Source Files\renderer\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\direct3d\d3d_wrapper.cpp">
+      <Filter>Source Files\renderer\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\direct3d\d3d_image.cpp">
+      <Filter>Source Files\renderer\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_mesh.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_model.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_refrag.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_rlight.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_rmain.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\direct3d\d3d_buffer.cpp">
+      <Filter>Source Files\renderer\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_particles.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_rmisc.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_screen.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_warp.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="pr_cmds.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pr_edict.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pr_exec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\r_rsurf.cpp">
+      <Filter>Source Files\renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\direct3d\d3d_rendertarget.cpp">
+      <Filter>Source Files\renderer\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="net_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="net_loop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="net_dgrm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="net_wins.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\direct3d\d3d_vid_old.cpp">
+      <Filter>Source Files\renderer\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="net_wipx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="in_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="net_vcr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer\direct3d\d3d_renderprog.cpp">
+      <Filter>Source Files\renderer\direct3d</Filter>
+    </ClCompile>
+    <ClCompile Include="sys_winphone8app.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="precompiled.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="newui\ui_main.cpp">
+      <Filter>Source Files\newui</Filter>
+    </ClCompile>
+    <ClCompile Include="newui\ui_button.cpp">
+      <Filter>Source Files\newui</Filter>
+    </ClCompile>
+    <ClCompile Include="snd_wav.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="snd_sound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="renderer\gl_model.h">
+      <Filter>Source Files\renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer\gl_warp_sin.h">
+      <Filter>Source Files\renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="glquake.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="quakedef.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sys_winphone8app.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="newui\ui_main.h">
+      <Filter>Source Files\newui</Filter>
+    </ClInclude>
+    <ClInclude Include="snd_local.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="winquake.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\base\renderprog\global.inc">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </None>
+    <None Include="Base\newui\Black_Arrow_Left.tga">
+      <Filter>Base\newui</Filter>
+    </None>
+    <None Include="Base\newui\Black_Arrow_Right.tga">
+      <Filter>Base\newui</Filter>
+    </None>
+    <None Include="Base\newui\FireButton.tga">
+      <Filter>Base\newui</Filter>
+    </None>
+    <None Include="Base\PAK1.PAK">
+      <Filter>Base</Filter>
+    </None>
+    <None Include="Base\newui\Black_Arrow_Down.tga">
+      <Filter>Base\newui</Filter>
+    </None>
+    <None Include="Base\newui\Black_Arrow_Up.tga">
+      <Filter>Base\newui</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\base\renderprog\2d_albedo_vs.hlsl">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </FxCompile>
+    <FxCompile Include="..\base\renderprog\2d_albedo_ps.hlsl">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </FxCompile>
+    <FxCompile Include="..\base\renderprog\albedoonly_ps.hlsl">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </FxCompile>
+    <FxCompile Include="..\base\renderprog\albedoonly_vs.hlsl">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </FxCompile>
+    <FxCompile Include="..\base\renderprog\lightmappass_vs.hlsl">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </FxCompile>
+    <FxCompile Include="..\base\renderprog\lightmappass_ps.hlsl">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </FxCompile>
+    <FxCompile Include="..\base\renderprog\liquid_vs.hlsl">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </FxCompile>
+    <FxCompile Include="..\base\renderprog\sky_vs.hlsl">
+      <Filter>Source Files\renderer\renderprog</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="WMAppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Base\autoexec.cfg">
+      <Filter>Base</Filter>
+    </Text>
+    <Text Include="Base\config.cfg">
+      <Filter>Base</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Base\PAK0.PAK">
+      <Filter>Base</Filter>
+    </Media>
+    <Media Include="Base\GFX.WAD">
+      <Filter>Base</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Base\quake.png">
+      <Filter>Base</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

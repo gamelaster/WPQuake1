@@ -1,0 +1,648 @@
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
+^..\base\renderprog\2d_albedo_ps.hlsl
+^..\base\renderprog\2d_albedo_vs.hlsl
+^..\base\renderprog\albedoonly_ps.hlsl
+^..\base\renderprog\albedoonly_vs.hlsl
+^..\base\renderprog\lightmappass_ps.hlsl
+^..\base\renderprog\lightmappass_vs.hlsl
+^..\base\renderprog\liquid_vs.hlsl
+^..\base\renderprog\sky_vs.hlsl
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\2d_albedo_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\albedoonly_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_ps.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\lightmappass_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\liquid_vs.cso
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\base\renderprogs\sky_vs.cso
+^C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\Quake.vcxproj
+C:\Users\Marek\Documents\Visual Studio 2013\Projects\QuakeWin8\src\ARM\Debug\Quake\platform.winmd
